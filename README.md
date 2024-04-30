@@ -1,11 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
  
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
- 
 <p align="center">
 <!-- https://github.com/jervis-cd/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
